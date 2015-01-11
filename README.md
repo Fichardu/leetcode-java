@@ -8,3 +8,4 @@ LeetCode-Java Solution
 |119|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)|[Java](./src/pascalsTriangle2/Solution.java)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)|[Java](./src/excelSheetColumnTitle/Solution.java)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[Java](./src/excelSheetColumnNumber/Solution.java)|Easy|
+|88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Java](./srcmergeSortedArray/Solution.java)|Easy|
