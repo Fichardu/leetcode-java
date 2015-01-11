@@ -10,3 +10,4 @@ LeetCode-Java Solution
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[Java](./src/excelSheetColumnNumber/Solution.java)|Easy|
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Java](./srcmergeSortedArray/Solution.java)|Easy|
 |83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./removeDupFromSortedList/Solution.java)|Easy|
+|83|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Java](./climbingStairs/Solution.java)|Easy|
