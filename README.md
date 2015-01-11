@@ -9,3 +9,4 @@ LeetCode-Java Solution
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)|[Java](./src/excelSheetColumnTitle/Solution.java)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[Java](./src/excelSheetColumnNumber/Solution.java)|Easy|
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Java](./srcmergeSortedArray/Solution.java)|Easy|
+|83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./removeDupFromSortedList/Solution.java)|Easy|
