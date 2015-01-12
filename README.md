@@ -11,3 +11,6 @@ LeetCode-Java Solution
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Java](./srcmergeSortedArray/Solution.java)|Easy|
 |83|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./removeDupFromSortedList/Solution.java)|Easy|
 |83|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Java](./climbingStairs/Solution.java)|Easy|
+|21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Java](./mergeTwoSortedLists/Solution.java)|Easy|
+|66|[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Java](./plusOne/Solution.java)|Easy|
+|67|[Add Binary](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Java](./mergeTwoSortedLists/Solution.java)|Easy|
