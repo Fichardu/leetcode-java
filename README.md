@@ -14,3 +14,4 @@ LeetCode-Java Solution
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Java](./mergeTwoSortedLists/Solution.java)|Easy|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Java](./plusOne/Solution.java)|Easy|
 |67|[Add Binary](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Java](./mergeTwoSortedLists/Solution.java)|Easy|
+|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Java](./lengthOfLastWord/Solution.java)|Easy|
