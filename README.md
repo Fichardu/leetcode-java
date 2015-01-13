@@ -15,3 +15,4 @@ LeetCode-Java Solution
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Java](./src/plusOne/Solution.java)|Easy|
 |67|[Add Binary](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Java](./src/mergeTwoSortedLists/Solution.java)|Easy|
 |58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Java](./src/lengthOfLastWord/Solution.java)|Easy|
+|14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)|[Java](./src/longestCommonPrefix/Solution.java)|Easy|
