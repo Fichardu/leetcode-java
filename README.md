@@ -17,3 +17,4 @@ LeetCode-Java Solution
 |58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Java](./src/lengthOfLastWord/Solution.java)|Easy|
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)|[Java](./src/longestCommonPrefix/Solution.java)|Easy|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Java](./src/validParentheses/Solution.java)|Easy|
+|8|[String to Integer(atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Java](./src/stringToInteger/Solution.java)|Easy|
