@@ -19,4 +19,5 @@ LeetCode-Java Solution
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Java](./src/validParentheses/Solution.java)|Easy|
 |8|[String to Integer(atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Java](./src/stringToInteger/Solution.java)|Easy|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Java](./src/palindromeNumber/Solution.java)|Easy|
-|9|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Java](./src/romanToInteger/Solution.java)|Easy|
+|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Java](./src/romanToInteger/Solution.java)|Easy|
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./src/removeNthNodeFromEndofList/Solution.java)|Easy|
