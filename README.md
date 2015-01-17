@@ -22,3 +22,4 @@ LeetCode-Java Solution
 |13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Java](./src/romanToInteger/Solution.java)|Easy|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./src/removeNthNodeFromEndofList/Solution.java)|Easy|
 |172|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|[Java](./src/factorialTrailingZeroes/Solution.java)|Easy|
+|26|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./src/removeDupFromSortedArray/Solution.java)|Easy|
