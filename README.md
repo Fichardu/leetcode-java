@@ -23,3 +23,4 @@ LeetCode-Java Solution
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./src/removeNthNodeFromEndofList/Solution.java)|Easy|
 |172|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|[Java](./src/factorialTrailingZeroes/Solution.java)|Easy|
 |26|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./src/removeDupFromSortedArray/Solution.java)|Easy|
+|27|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-element/)|[Java](./src/removeElement/Solution.java)|Easy|
