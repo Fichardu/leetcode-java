@@ -21,11 +21,12 @@ LeetCode-Java Solution
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Java](./src/palindromeNumber/Solution.java)|Easy|
 |13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Java](./src/romanToInteger/Solution.java)|Easy|
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./src/removeNthNodeFromEndofList/Solution.java)|Easy|
-|172|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|[Java](./src/factorialTrailingZeroes/Solution.java)|Easy|
-|26|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./src/removeDupFromSortedArray/Solution.java)|Easy|
-|27|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-element/)|[Java](./src/removeElement/Solution.java)|Easy|
+|172|[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|[Java](./src/factorialTrailingZeroes/Solution.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./src/removeDupFromSortedArray/Solution.java)|Easy|
+|27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Java](./src/removeElement/Solution.java)|Easy|
 |28|[Implement strStr](https://oj.leetcode.com/problems/implement-strstr/)|[Java](./src/implementStrStr/Solution.java)|Easy|
 |134|[Gas Station](https://oj.leetcode.com/problems/gas-station/)|[Java](./src/gasStation/Solution.java)|Easy|
 |133|[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)|[Java](./src/cloneGraph/Solution.java)|Easy|
 |129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./src/cloneGraph/Solution.java)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)|[Java](./src/twoSum/Solution.java)|Medium|
 
