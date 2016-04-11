@@ -31,3 +31,4 @@ LeetCode-Java Solution
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)|[Java](./src/twoSum/Solution.java)|Medium|
 |219|[Contains Duplicate II](https://oj.leetcode.com/problems/contains-duplicate-ii/)|[Java](./src/containsDuplicate2/Solution.java)|Easy|
 |189|[Rotate Array II](https://oj.leetcode.com/problems/rotate-array/)|[Java](./src/rotateArray/Solution.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./src/bestTimeToBuyAndSellStock/Solution.java)|Easy|
