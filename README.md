@@ -29,4 +29,4 @@ LeetCode-Java Solution
 |133|[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)|[Java](./src/cloneGraph/Solution.java)|Easy|
 |129|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./src/cloneGraph/Solution.java)|Medium|
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)|[Java](./src/twoSum/Solution.java)|Medium|
-
+|1|[contains Duplicate II](https://oj.leetcode.com/problems/contains-duplicate-ii/)|[Java](./src/containsDuplicate2/Solution.java)|Easy|
