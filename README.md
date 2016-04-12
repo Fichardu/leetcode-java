@@ -34,3 +34,4 @@ LeetCode-Java Solution
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./src/bestTimeToBuyAndSellStock/Solution.java)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./src/moveZeroes/Solution.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./src/containsDuplicate/Solution.java)|Easy|
+|209|[Minimum Size  Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./src/minimumSizeSubarraySum/Solution.java)|Medium|
