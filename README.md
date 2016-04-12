@@ -36,3 +36,4 @@ LeetCode-Java Solution
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./src/containsDuplicate/Solution.java)|Easy|
 |209|[Minimum Size  Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./src/minimumSizeSubarraySum/Solution.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./src/3sum/Solution.java)|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./src/setMatrixZeroes/Solution.java)|Medium|
