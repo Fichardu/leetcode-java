@@ -38,3 +38,4 @@ LeetCode-Java Solution
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./src/3sum/Solution.java)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./src/setMatrixZeroes/Solution.java)|Medium|
 |216|[Combination Sum III ](https://leetcode.com/problems/combination-sum-iii/)|[Java](./src/combinationSum3/Solution.java)|Medium|
+|18|[4Sum ](https://leetcode.com/problems/4sum/)|[Java](./src/4sum/Solution.java)|Medium|
