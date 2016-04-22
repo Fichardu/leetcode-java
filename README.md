@@ -41,3 +41,4 @@ LeetCode-Java Solution
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./src/4sum/Solution.java)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./src/findPeakElement/Solution.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./src/minimumSizeSubarraySum/Solution.java)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./src/missingNumber/Solution.java)|Medium|
