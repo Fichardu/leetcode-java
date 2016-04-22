@@ -40,3 +40,4 @@ LeetCode-Java Solution
 |216|[Combination Sum III ](https://leetcode.com/problems/combination-sum-iii/)|[Java](./src/combinationSum3/Solution.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](./src/4sum/Solution.java)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./src/findPeakElement/Solution.java)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./src/minimumSizeSubarraySum/Solution.java)|Medium|
