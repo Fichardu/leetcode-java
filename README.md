@@ -47,3 +47,4 @@ LeetCode-Java Solution
 |34|[Search for a range](https://leetcode.com/problems/search-for-a-range/)|[Java](./src/searchForaRange/Solution.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./src/searchInsertPosition/Solution.java)|Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](./src/conBinaryTreeFromInorderAndPostorder/Solution.java)|Medium|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Java](./src/conBinaryTreeFromPreorderAndInorder/Solution.java)|Medium|
