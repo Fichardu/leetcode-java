@@ -46,3 +46,4 @@ LeetCode-Java Solution
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./src/triangle/Solution.java)|Medium|
 |34|[Search for a range](https://leetcode.com/problems/search-for-a-range/)|[Java](./src/searchForaRange/Solution.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./src/searchInsertPosition/Solution.java)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Java](./src/conBinaryTreeFromInorderAndPostorder/Solution.java)|Medium|
