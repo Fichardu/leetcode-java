@@ -43,3 +43,4 @@ LeetCode-Java Solution
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./src/minimumSizeSubarraySum/Solution.java)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./src/missingNumber/Solution.java)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./src/bestTimeToBuyAndSellStock2/Solution.java)|Medium|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./src/triangle/Solution.java)|Medium|
