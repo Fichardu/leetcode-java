@@ -45,3 +45,4 @@ LeetCode-Java Solution
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./src/bestTimeToBuyAndSellStock2/Solution.java)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./src/triangle/Solution.java)|Medium|
 |34|[Search for a range](https://leetcode.com/problems/search-for-a-range/)|[Java](./src/searchForaRange/Solution.java)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./src/searchInsertPosition/Solution.java)|Medium|
