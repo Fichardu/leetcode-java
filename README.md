@@ -59,3 +59,6 @@ LeetCode-Java Solution
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./src/minimumPathSum/Solution.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./src/uniquePaths/Solution.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./src/uniquePaths2/Solution.java)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](./src/spiralMatrix2/Solution.java)|Medium|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./src/productOfArrayExceptSelf/Solution.java)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](./src/majorityElement2/Solution.java)|Medium|
