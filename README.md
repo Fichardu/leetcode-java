@@ -52,3 +52,7 @@ LeetCode-Java Solution
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./src/combinationSum/Solution.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./src/containerWithMostWater/Solution.java)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./src/searchInRotatedSortedArray2/Solution.java)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./src/removeDuplicatesFromSortedArray2/Solution.java)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./src/sortColors/Solution.java)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./src/searchA2dMatrix/Solution.java)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./src/combinationSum2/Solution.java)|Medium|
