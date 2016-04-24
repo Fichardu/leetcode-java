@@ -56,3 +56,6 @@ LeetCode-Java Solution
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./src/sortColors/Solution.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./src/searchA2dMatrix/Solution.java)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./src/combinationSum2/Solution.java)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./src/minimumPathSum/Solution.java)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./src/uniquePaths/Solution.java)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./src/uniquePaths2/Solution.java)|Medium|
