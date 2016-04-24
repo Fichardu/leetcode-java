@@ -51,3 +51,4 @@ LeetCode-Java Solution
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](./src/subsets2/Solution.java)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./src/combinationSum/Solution.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./src/containerWithMostWater/Solution.java)|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./src/searchInRotatedSortedArray2/Solution.java)|Medium|
