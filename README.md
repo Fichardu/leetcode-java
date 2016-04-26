@@ -62,3 +62,9 @@ LeetCode-Java Solution
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](./src/spiralMatrix2/Solution.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./src/productOfArrayExceptSelf/Solution.java)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](./src/majorityElement2/Solution.java)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./src/jumpGame/Solution.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./src/spiralMatrix/Solution.java)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./src/maximumSubarray/Solution.java)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./src/rotateImage/Solution.java)|Medium|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./src/summaryRanges/Solution.java)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./src/3sumClosest/Solution.java)|Medium|
