@@ -68,3 +68,9 @@ LeetCode-Java Solution
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./src/rotateImage/Solution.java)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./src/summaryRanges/Solution.java)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./src/3sumClosest/Solution.java)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./src/trappingRainWater/Solution.java)|Hard|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./src/mergeIntervals/Solution.java)|Hard|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./src/isomorphicStrings/Solution.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./src/countPrimes/Solution.java)|Easy|
+|202|[Happy Numbers](https://leetcode.com/problems/happy-numbers/)|[Java](./src/happyNumbers/Solution.java)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](./src/bullsAndCows/Solution.java)|Easy|
